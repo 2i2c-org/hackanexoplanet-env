@@ -10,5 +10,6 @@ dependencies:
   - scipy
   - ipympl
   - seaborn
+  - nbgitpuller
   - emcee
   - ellc
