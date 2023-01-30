@@ -13,4 +13,5 @@ dependencies:
   - seaborn
   - nbgitpuller
   - emcee
+  - h5py
   - ellc
